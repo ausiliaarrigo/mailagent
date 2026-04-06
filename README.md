@@ -31,3 +31,4 @@ Un'app Next.js pronta da pubblicare su Vercel. Una volta online, la apri da Safa
 2. Aprilo in Safari su iPhone
 3. Tocca il pulsante "Condividi" → "Aggiungi a schermata Home"
 4. Ora hai l'icona dell'app sulla schermata home 🎉
+grazie
